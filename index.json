@@ -7875,6 +7875,17 @@
   },
   {
     "fileName": "1141-020a-01283001-Z03MMC.zigbee",
+    "fileVersion": 285224962,
+    "fileSize": 131426,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/pvvx/1141-020a-01283001-Z03MMC.zigbee",
+    "imageType": 515,
+    "manufacturerCode": 56085,
+    "sha512": "0ad4a1adc6a2867a1deec3a591e22c9b88999bc554a60d3f0d80a3ab72ca2ea289cb10f44e39379ec5853d8cadedc4fcb2a98ca886161642865f2dee8f15f7bc",
+    "otaHeaderString": "ZigbeeTLc OTA",
+    "modelId": "LYWSD03MMC"
+  },
+  {
+    "fileName": "1141-020a-01283001-Z03MMC.zigbee",
     "fileVersion": 19410945,
     "fileSize": 131426,
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/pvvx/1141-020a-01283001-Z03MMC.zigbee",
